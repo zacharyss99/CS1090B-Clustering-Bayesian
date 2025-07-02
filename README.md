@@ -1,3 +1,2 @@
-# CS1090B-Clustering-Bayesian
-# CS1090B-Clustering-Bayesian
-# CS1090B-Clustering-Bayesian
+# In this homework, I did MCMC (Markovian Monte Carlo Sampling) and also k-means clustering. 
+# Please download the data files
